@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" data-provider-thread-count="1">
+  <test thread-count="1" name="Test">
+    <classes>
+      <!-- <class name="testcases.week7.day2.CreatingLead"/>
+      <class name="testcases.week7.day2.CreateContact"/>
+      <class name="testcases.week7.day2.EditLead"/>
+      <class name="testcases.week7.day2.DeleteLead"/>
+      <class name="testcases.week7.day2.DuplicateLead"/> -->
+      <class name="testcases.week7.day2.CreatingLead"/>
+    </classes>
+  </test>
+</suite>
